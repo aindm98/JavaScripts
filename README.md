@@ -1,2 +1,2 @@
-# JavaScripts
+# JavaScript
 Problems on Number
